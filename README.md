@@ -79,7 +79,7 @@ These visualizations help understand how the business performs across different 
 
 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 Key Insights
 
