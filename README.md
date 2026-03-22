@@ -6,7 +6,7 @@ This project presents an Ecommerce Sales Analysis Dashboard built using Microsof
 The dashboard provides a clear and interactive view of business performance using data visualization techniques.
 
 Project Objectives
-
+ 
 The main objectives of this project are:
 
 Analyze overall sales and profit performance
